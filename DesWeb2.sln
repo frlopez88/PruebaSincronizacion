@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesWeb2.Android", "DesWeb2.Android\DesWeb2.Android.csproj", "{84EFC08E-8C48-4459-A9A7-8F7307964405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesWeb2", "DesWeb2\DesWeb2.csproj", "{57CC2A24-61AE-4915-A424-D74A76EA0AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84EFC08E-8C48-4459-A9A7-8F7307964405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EFC08E-8C48-4459-A9A7-8F7307964405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EFC08E-8C48-4459-A9A7-8F7307964405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EFC08E-8C48-4459-A9A7-8F7307964405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CC2A24-61AE-4915-A424-D74A76EA0AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CC2A24-61AE-4915-A424-D74A76EA0AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CC2A24-61AE-4915-A424-D74A76EA0AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CC2A24-61AE-4915-A424-D74A76EA0AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E9BAC57-EE47-49DC-B6E8-886CD241D049}
+	EndGlobalSection
+EndGlobal
